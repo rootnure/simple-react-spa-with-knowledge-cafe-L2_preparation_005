@@ -1,142 +1,55 @@
 [
     {
         "id": 1,
-        "cover": "https://example.com/cover1.jpg",
-        "title": "The Journey Begins",
-        "author": "John Doe",
-        "author_img": "https://example.com/johndoe.jpg",
-        "post_date": "2024-09-15",
-        "reading_time": "5 min",
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
         "hashtags": [
-            "#adventure",
-            "#journey",
-            "#life"
+            "beginners",
+            "es6"
         ]
     },
     {
         "id": 2,
-        "cover": "https://example.com/cover2.jpg",
-        "title": "Exploring the Unknown",
-        "author": "Jane Smith",
-        "author_img": "https://example.com/janesmith.jpg",
-        "post_date": "2024-09-18",
-        "reading_time": "7 min",
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
         "hashtags": [
-            "#exploration",
-            "#discovery",
-            "#unknown"
+            "javascript",
+            "coding",
+            "dev"
         ]
     },
     {
         "id": 3,
-        "cover": "https://example.com/cover3.jpg",
-        "title": "Mindfulness in Everyday Life",
-        "author": "Emily Clark",
-        "author_img": "https://example.com/emilyclark.jpg",
-        "post_date": "2024-09-20",
-        "reading_time": "4 min",
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
         "hashtags": [
-            "#mindfulness",
-            "#selfcare",
-            "#wellbeing"
+            "mid_level",
+            "react"
         ]
     },
     {
         "id": 4,
-        "cover": "https://example.com/cover4.jpg",
-        "title": "Tech Innovations in 2024",
-        "author": "Michael Lee",
-        "author_img": "https://example.com/michaellee.jpg",
-        "post_date": "2024-09-22",
-        "reading_time": "10 min",
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
         "hashtags": [
-            "#technology",
-            "#innovation",
-            "#future"
-        ]
-    },
-    {
-        "id": 5,
-        "cover": "https://example.com/cover5.jpg",
-        "title": "Healthy Eating Habits",
-        "author": "Sara Khan",
-        "author_img": "https://example.com/sarakhan.jpg",
-        "post_date": "2024-09-10",
-        "reading_time": "6 min",
-        "hashtags": [
-            "#health",
-            "#nutrition",
-            "#wellness"
-        ]
-    },
-    {
-        "id": 6,
-        "cover": "https://example.com/cover6.jpg",
-        "title": "Mastering Time Management",
-        "author": "David Wilson",
-        "author_img": "https://example.com/davidwilson.jpg",
-        "post_date": "2024-09-17",
-        "reading_time": "8 min",
-        "hashtags": [
-            "#productivity",
-            "#timemanagement",
-            "#success"
-        ]
-    },
-    {
-        "id": 7,
-        "cover": "https://example.com/cover7.jpg",
-        "title": "A Guide to Digital Marketing",
-        "author": "Laura Green",
-        "author_img": "https://example.com/lauragreen.jpg",
-        "post_date": "2024-09-19",
-        "reading_time": "9 min",
-        "hashtags": [
-            "#marketing",
-            "#digital",
-            "#strategy"
-        ]
-    },
-    {
-        "id": 8,
-        "cover": "https://example.com/cover8.jpg",
-        "title": "The Art of Public Speaking",
-        "author": "Robert Brown",
-        "author_img": "https://example.com/robertbrown.jpg",
-        "post_date": "2024-09-21",
-        "reading_time": "7 min",
-        "hashtags": [
-            "#publicspeaking",
-            "#communication",
-            "#skills"
-        ]
-    },
-    {
-        "id": 9,
-        "cover": "https://example.com/cover9.jpg",
-        "title": "Fitness Tips for Busy People",
-        "author": "Angela White",
-        "author_img": "https://example.com/angelawhite.jpg",
-        "post_date": "2024-09-11",
-        "reading_time": "5 min",
-        "hashtags": [
-            "#fitness",
-            "#healthyliving",
-            "#workout"
-        ]
-    },
-    {
-        "id": 10,
-        "cover": "https://example.com/cover10.jpg",
-        "title": "The Future of Artificial Intelligence",
-        "author": "Steven Taylor",
-        "author_img": "https://example.com/steventaylor.jpg",
-        "post_date": "2024-09-23",
-        "reading_time": "12 min",
-        "hashtags": [
-            "#AI",
-            "#future",
-            "#technology"
+            "development",
+            "resources"
         ]
     }
 ]
