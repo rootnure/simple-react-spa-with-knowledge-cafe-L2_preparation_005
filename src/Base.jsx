@@ -11,8 +11,11 @@ export default function Base() {
     setBookmarks([...bookmarks, blog]);
   }
 
-  const handleMarkAsRead = time => {
+  const handleMarkAsRead = (id, time) => {
     setReadingTime(readingTime + time);
+    // remove mark as read blog from bookmarks
+    const newBookmarks = bookmarks.filter(bookmark => id !== bookmark.id);
+    setBookmarks(newBookmarks);
   }
 
   return (
